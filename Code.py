@@ -126,4 +126,4 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = RestaurantOrderManagement(root)
     root.geometry("800x600")
-    root.mainloop()
+    root.mainloop( )
